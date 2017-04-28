@@ -21,6 +21,11 @@ xcuserdata/
 *.moved-aside
 *.xcuserstate
 
+## hero
+*.log
+public/
+.deploy*/
+
 ## Obj-C/Swift specific
 *.hmap
 *.ipa
