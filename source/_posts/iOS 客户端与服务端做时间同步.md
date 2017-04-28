@@ -1,7 +1,8 @@
 ---
 title: iOS 客户端与服务端做时间同步
 date: 2017-04-28 09:37:05
-tags: iOS，服务端，时间同步
+categories: 编程
+tags: [iOS, 服务端]
 ---
 
 ![](https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-416679.jpg)
